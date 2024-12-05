@@ -34,7 +34,9 @@
 ![Screenshot 2024-11-27 112933](https://github.com/user-attachments/assets/b7678fe7-33fe-4ca7-9bff-508c0444f0dc)
 
 ### Output:
-![Screenshot 2024-11-27 113324](https://github.com/user-attachments/assets/f062347f-2267-4549-91ac-3006c2f2790f)
+![Screenshot 2024-12-05 134448](https://github.com/user-attachments/assets/7baaff03-ede8-4ea3-a307-4433fcd57b27)
+![Screenshot 2024-12-05 134505](https://github.com/user-attachments/assets/c68341d6-f135-44ab-8945-778628a1c397)
+
 
 ### Name: Gokul Nath R
 ### Register Number: 24901115
